@@ -52,8 +52,27 @@ Back-End Server: XAMPP Server PHPMyAdmin<br>
 Hardware: Desktop Computer, Laptop and peripherals.<br>
 SUSTAINABLE DEVELOPMENT GOAL (SDG 3)<br>
 Title: "DMBDC: Dental Appointment Scheduling System"<br>
-Aligned with UN Sustainable Development Goal 3, our "Dental Scheduler" is revolutionizing healthcare. Focused on oral health, it empowers individuals through efficient appointment management, <br>promoting prevention, and easing healthcare burdens. This innovative technology bridges gaps in accessibility, encouraging regular check-ups, and optimizing resource allocation for improved <br>efficiency.<br>
+Aligned with UN Sustainable Development Goal 3, our "Dental Scheduler" is revolutionizing healthcare. Focused on oral health, it empowers individuals through efficient appointment management, 
+ promoting prevention, and easing healthcare burdens. This innovative technology bridges gaps in accessibility, encouraging regular check-ups, and optimizing resource allocation for improved efficiency.<br>
 Beyond scheduling, our system is a data-driven tool providing insights into oral health trends, guiding evidence-based public health strategies. A tangible contributor to SDG 3, we're fostering a <br>culture of preventive dental care, reducing disparities, and advancing a future with equitable healthcare access for a healthier global community.<br>
+
+## GUI
+
+## Login
+## Register
+## Homepage
+## Service
+## About Us
+## Appointment Calendar
+## Time Slot
+## Admin Dashboard
+## Admin Records
+## Edit Admin Profile
+## User Records
+## Edit User Profile
+
+
+
 
 
 
