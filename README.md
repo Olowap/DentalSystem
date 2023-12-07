@@ -59,7 +59,9 @@ Beyond scheduling, our system is a data-driven tool providing insights into oral
 ## GUI
 
 ## Login
+
 ## Register
+![image](https://github.com/Olowap/DentalSystem/assets/148442968/34019c54-6f05-4cdf-97e1-97544ed343fd)
 ## Homepage
 ## Service
 ## About Us
