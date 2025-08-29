@@ -16,30 +16,6 @@ The project focuses on developing an advanced online Dental Clinic Appointment S
 The administrative module empowers clinic staff to efficiently manage appointments, track patient records, and send reminders. Customizable multi-user access ensures different staff positions have tailored rights, maintaining data security while optimizing workflow. A centralized, secure database is implemented to handle patient records comprehensively, including critical information like medical histories and treatment plans. This centralized approach facilitates quick access for dental professionals, supporting a more individualized and informed approach to patient treatment.<br>
 The system also integrates communication channels such as SMS, email, or mobile app alerts to seamlessly reach patients, promoting enhanced patient involvement and adherence to appointments. With a commitment to leveraging state-of-the-art technology, the project aims to revolutionize the way dental visits are scheduled, managed, and monitored, addressing long-standing challenges in the field and contributing to improved patient-centered care and operational efficiency.<br>
 
-## Members and their Contributions
-The following are the members of the group alongside their specific percentage of contribution to the project: <br>
-Comia, Mikael Aeriel - 20%<br>
-Reason: Database Development, Project Manager, Documentation<br>
- Galak, Yasmin E.- 20%<br>
-Reason:  Database Development, Data Entry, Documentation<br>
-Lingon- 20%<br>
-Reason: Front -End Development, Data Entry, Documentation
-Ramos, Paolo - 20%<br>
-Reason: Front-End Development and Back-end Development.
-Seva, Aldrin- 20%<br>
-Reason: Back-End Development <br>
-
-
-## This is the breakdown of the percentage used:
-- 50% = documentation<br>
-- 50% = system<br>
-- 20 = Comia (10% docu, 10% system)<br>
-- 20 = Galak(10% docu, 10% system)<br>
-- 20 = Lingon (10%docu, 10%System)<br>
-- 20 = Ramos (15 system, 5% docu)<br>
-- 20 = Seva(10% docu, 10% system)<br>
-
-
 
 ## Technologies Used
 Software: Web Browsers: Google Chrome<br>
