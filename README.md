@@ -2,11 +2,7 @@
 
 
 ## FINAL PROJECT: 
-IT 311 - System Administration and Maintenance.<br>
-IT 312 - System Integration and Architecture<br>
-IT 313 - System Analysis and Design<br>
-IT 314 - Web Systems and Technologies<br>
-BSIT- BA: 3107<br>
+
 ## Description
 The dental appointment scheduling system aims to increase efficiency, reduce waiting time, and decrease manual work. Moreover, they can regulate patient flow better with appointment system solutions.<br>
 These are some of the specific objectives of our system.<br>
