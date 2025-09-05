@@ -15,7 +15,7 @@ function build_calendar($month, $year) {
                 $bookings[] = $row['DATE'];
             }
             
-            $stmt->close();
+              $stmt->close();
         }
     }*/
     
